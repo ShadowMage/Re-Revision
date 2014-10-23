@@ -1,0 +1,186 @@
+{
+  "title": "RE Revision",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "10": {
+      "title": "Life Issues",
+      "id": 3,
+      "attr": {
+        "style": {
+          "background": "#99cc00"
+        },
+        "position": [
+          136,
+          -90,
+          3
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Early Life",
+          "id": 9,
+          "attr": {
+            "position": [
+              67,
+              257,
+              1
+            ],
+            "style": {
+              "background": "#99cc00"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Key Terms",
+              "id": 13,
+              "attr": {
+                "position": [
+                  149,
+                  -132,
+                  1
+                ],
+                "style": {
+                  "background": "#006400"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Abortion - deliberate expulsion of the foetus from the womb to terminate pregnancy. ",
+                  "id": 14,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    },
+                    "position": [
+                      158,
+                      -119,
+                      1
+                    ]
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Adoption - to legally take on a child that is not your own. ",
+                      "id": 15,
+                      "attr": {
+                        "style": {
+                          "background": "#9ACD32"
+                        }
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "title": "Fostering - to temporarily look after a child that is not your own. It is still legally its mother's.",
+                  "id": 20,
+                  "attr": {
+                    "style": {
+                      "background": "#9ACD32"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Miracle of life - the idea that becoming pregnant is so special - it's a miracle.",
+                      "id": 21,
+                      "attr": {
+                        "style": {
+                          "background": "#9ACD32"
+                        }
+                      }
+                    }
+                  }
+                },
+                "6": {
+                  "title": "Pro-Life - arguments focusing on the rights of the unborn child.",
+                  "id": 23,
+                  "attr": {
+                    "style": {
+                      "background": "#9ACD32"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Pro-Choice - Arguments focusing on the mother's right to choose an abortion.",
+                      "id": 22,
+                      "attr": {
+                        "style": {
+                          "background": "#9ACD32"
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "title": "Quality of Life - what a person's life should be like for it to be worth living.",
+                  "id": 24,
+                  "attr": {
+                    "style": {
+                      "background": "#9ACD32"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Sanctity of Life - life is special and sacred.",
+                      "id": 25,
+                      "attr": {
+                        "style": {
+                          "background": "#9ACD32"
+                        }
+                      }
+                    }
+                  }
+                },
+                "2.5": {
+                  "title": "Conception - when the sperm meets the egg.",
+                  "id": 19,
+                  "attr": {
+                    "style": {
+                      "background": "#9ACD32"
+                    },
+                    "position": [
+                      149,
+                      8,
+                      4
+                    ]
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Blessing - in the context of children being a blessing, the child can be seen as a gift from God to the parents.",
+                      "id": 17,
+                      "attr": {
+                        "style": {
+                          "background": "#9ACD32"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Philosophy",
+      "id": 5,
+      "attr": {
+        "position": [
+          163,
+          55,
+          2
+        ],
+        "style": {
+          "background": "#800080"
+        }
+      }
+    }
+  },
+  "links": [],
+  "attr": {
+    "style": {},
+    "storyboards": [
+      "Storyboard 1"
+    ]
+  }
+}
