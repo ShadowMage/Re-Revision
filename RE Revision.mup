@@ -11,8 +11,8 @@
           "background": "#99cc00"
         },
         "position": [
-          136,
-          -90,
+          161.5,
+          61.5,
           3
         ]
       },
@@ -21,14 +21,14 @@
           "title": "Early Life",
           "id": 9,
           "attr": {
-            "position": [
-              67,
-              257,
-              1
-            ],
             "style": {
               "background": "#99cc00"
-            }
+            },
+            "position": [
+              85,
+              -59,
+              1
+            ]
           },
           "ideas": {
             "1": {
